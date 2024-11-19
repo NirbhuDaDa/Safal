@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(113, 138, 124);
+}
+#heading{
+    font-family: doto;
+    text-align: Center;
+    background-color: grey;
+    padding: 5px;
+    border: blue;
+}
+#intro {
+    font-family: "Geist Mono", monospace;
+    font-size: Normal;
+    text-align: left;
+  }
+  #info{
+    font-family: "Roboto Mono", monospace;
+  }
+  
